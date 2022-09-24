@@ -1,7 +1,7 @@
 # Opa! Gustavo aqui 💻🎭
 
-- 📚 Estudando back-end: Java☕
-- 📚 Estudando front-end: HTML5, CSS3, JavaScript, React⚛️  
+- 📚 Estudando back-end: ☕Java
+- 📚 Estudando front-end: HTML5, CSS3, JavaScript, React  
 
 <div align="center">
   <a href="https://github.com/GuDelmonte">
