@@ -1,6 +1,6 @@
 # Opa! Gustavo aqui 💻🎭
 
-- 📚 Estudando back-end: ☕Java
+- 📚 Estudando back-end: Java ☕
 - 📚 Estudando front-end: HTML5, CSS3, JavaScript, React  
 
 <div align="center">
